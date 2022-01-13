@@ -86,3 +86,6 @@ if totalvalue(dealer_cards) > 21:
         print(f"Both of you busted... no one wins its a tie")
 
 print(f"Your cards were {player_cards} with a total of {totalvalue(player_cards)} \nthe dealers cards were {dealer_cards} and their total was {totalvalue(dealer_cards)}")
+
+#New feature
+
